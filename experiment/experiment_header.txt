@@ -4,3 +4,7 @@ Experiment Name 	: vgg16_2021_01_17__12_19_12
 Accuracy 		: 0.9283
 
 
+Experiment Name 	: vgg16_2021_01_17__12_40_36 
+Accuracy 		: 0.9177
+
+
