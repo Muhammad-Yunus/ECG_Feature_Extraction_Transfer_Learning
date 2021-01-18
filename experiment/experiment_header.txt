@@ -1,0 +1,51 @@
+
+
+Experiment Name 	: vgg16_2021_01_17__12_19_12 
+Accuracy 		: 0.9283
+
+
+Experiment Name 	: vgg16_2021_01_17__12_40_36 
+Accuracy 		: 0.9177
+
+
+Experiment Name 	: vgg16_2021_01_17__12_58_40 
+Accuracy 		: 0.9298
+
+
+Experiment Name 	: vgg16_2021_01_17__13_13_00 
+Accuracy 		: 0.9329
+
+
+Experiment Name 	: vgg16_2021_01_17__18_10_41 
+Accuracy 		: 0.9124
+
+
+Experiment Name 	: vgg16_2021_01_17__20_43_15 
+Accuracy 		: 0.9486
+
+
+Experiment Name 	: vgg16_2021_01_17__21_14_53 
+Accuracy 		: 0.9429
+
+
+Experiment Name 	: vgg16_2021_01_17__21_32_50 
+Accuracy 		: 0.9499
+
+
+Experiment Name 	: vgg16_2021_01_17__21_51_45 
+Accuracy 		: 0.9523
+
+
+Experiment Name 	: vgg16_2021_01_17__22_06_04 
+Accuracy 		: 0.5047
+
+
+Experiment Name 	: vgg16_2021_01_17__22_16_14 
+Experiment Name 	: vgg16_2021_01_17__22_16_14 
+Accuracy 		: 0.9457
+
+
+Experiment Name 	: vgg16_2021_01_17__22_26_28 
+Accuracy 		: 0.9477
+
+
