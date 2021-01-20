@@ -1,0 +1,1 @@
+{"train_size": [[51000, 2], [51000, 7, 7, 512]], "test_size": [[9000, 2], [9000, 7, 7, 512]], "epoch": 16, "batch_size": 128, "use_merge_split": true, "reduce_float_size": true, "test_size_split": 0.15}

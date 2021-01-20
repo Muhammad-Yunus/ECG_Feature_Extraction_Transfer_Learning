@@ -49,3 +49,23 @@ Experiment Name 	: vgg16_2021_01_17__22_26_28
 Accuracy 		: 0.9477
 
 
+Experiment Name 	: vgg16_2021_01_20__05_54_39 
+Accuracy 		: 0.9785
+
+
+Experiment Name 	: vgg16_2021_01_20__06_58_07 
+Accuracy 		: 0.9790
+
+
+Experiment Name 	: vgg16_2021_01_20__06_58_07 
+Accuracy 		: 0.9763
+
+
+Experiment Name 	: vgg16_2021_01_20__07_32_05 
+Accuracy 		: 0.9764
+
+
+Experiment Name 	: vgg16_2021_01_20__07_40_00 
+Accuracy 		: 0.9806
+
+
