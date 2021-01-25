@@ -77,3 +77,7 @@ Experiment Name 	: vgg16_2021_01_24__21_59_18
 Accuracy 		: 0.9953
 
 
+Experiment Name 	: resnet50_2021_01_25__20_42_32 
+Accuracy 		: 0.9928
+
+

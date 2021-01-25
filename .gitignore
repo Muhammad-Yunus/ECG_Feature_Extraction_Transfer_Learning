@@ -14,3 +14,8 @@ dataset/test_all-v2.csv
 dataset/train_all-v2.csv
 dataset/y_target_AFDB.npz
 dataset/X_image_AFDB.npz
+cnn_classif_best_model.h5
+CNN_Classification_model_resnet50.h5
+experiment/resnet50_2021_01_25__20_42_32/CNN_Classification_model_resnet50.h5
+cnn_classif_best_model.h5
+cnn_classif_best_model.h5
