@@ -8,3 +8,9 @@ dataset/train_all.csv
 dataset/train_all_Conv_AE.csv
 dataset/train_vgg16_feature.npz
 dataset/train_vgg16_feature_flatten.npz
+dataset/X_image.npz
+dataset/y_target.npz
+dataset/test_all-v2.csv
+dataset/train_all-v2.csv
+dataset/y_target_AFDB.npz
+dataset/X_image_AFDB.npz
