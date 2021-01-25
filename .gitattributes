@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.npz filter=lfs diff=lfs merge=lfs -text
+CNN_Classification_model_vgg16.h5 filter=lfs diff=lfs merge=lfs -text
+denoising_conv_AE.h5 filter=lfs diff=lfs merge=lfs -text
+best_denoising_conv_AE.h5 filter=lfs diff=lfs merge=lfs -text
+cnn_classif_best_model.h5 filter=lfs diff=lfs merge=lfs -text
+CNN_Classification_model_resnet50.h5 filter=lfs diff=lfs merge=lfs -text
