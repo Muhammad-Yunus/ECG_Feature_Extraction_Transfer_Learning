@@ -81,3 +81,7 @@ Experiment Name 	: resnet50_2021_01_25__20_42_32
 Accuracy 		: 0.9928
 
 
+Experiment Name 	: densenet121_2021_01_26__22_48_54 
+Accuracy 		: 0.9932
+
+
