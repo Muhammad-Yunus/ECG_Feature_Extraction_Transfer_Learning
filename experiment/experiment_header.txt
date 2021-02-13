@@ -85,3 +85,7 @@ Experiment Name 	: densenet121_2021_01_26__22_48_54
 Accuracy 		: 0.9932
 
 
+Experiment Name 	: vgg16_2021_02_13__13_29_14 
+Accuracy 		: 0.9878
+
+
