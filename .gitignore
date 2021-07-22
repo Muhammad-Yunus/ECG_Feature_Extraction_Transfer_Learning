@@ -1,0 +1,11 @@
+dataset_split_per_class/*
+*.h5
+*_all.csv
+*16s_2_ch.csv
+*checkpoint.csv
+*_all_*
+*AFDB_*
+*NSRDB_*
+dataset/NSRDB*
+dataset/AFDB*
+dataset/data pasien/*

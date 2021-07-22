@@ -1,0 +1,1 @@
+{"train_size": [[5689, 2], [5689, 30, 1]], "test_size": [[2803, 2], [2803, 30, 1]], "epoch": 10, "batch_size": 32, "test_size_split": 0.33, "sample_size": 6, "feature_pad": 15}
