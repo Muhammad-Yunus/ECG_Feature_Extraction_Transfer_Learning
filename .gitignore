@@ -1,4 +1,4 @@
-dataset_split_per_class/*
+dataset_split_per_class/*.csv
 *.h5
 *_all.csv
 *16s_2_ch.csv
@@ -6,4 +6,3 @@ dataset_split_per_class/*
 *_all_*
 *AFDB_*
 *NSRDB_*
-dataset/NSRDB*
