@@ -1,0 +1,30 @@
+{
+    "batch_size": 32,
+    "current_fold": 4,
+    "cv_splits": 5,
+    "epoch": 10,
+    "feature_pad": 15,
+    "sample_size": 6,
+    "test_size": [
+        [
+            1698,
+            2
+        ],
+        [
+            1698,
+            30,
+            1
+        ]
+    ],
+    "train_size": [
+        [
+            6794,
+            2
+        ],
+        [
+            6794,
+            30,
+            1
+        ]
+    ]
+}

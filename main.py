@@ -920,7 +920,7 @@ def classification(cv_splits=5,
         full_path = Path + Name
 
         with open(full_path, mode=mode) as json_config:
-            json.dump(Data, json.load(json_config) if append else json_config)
+            json.dump(Data, json.load(json_config) if append else json_config, indent=4, sort_keys=True)
         
         return 'success' 
 
@@ -990,22 +990,26 @@ def classification(cv_splits=5,
      
     print("[INFO] loading feature %s dataset" % feature_type)     
     dataset_folder = 'dataset/'
-    test_df = []
-    train_df = []
+    selected_feature_len = len(feature_type.split(sep=","))
+    test_dfs = []
+    train_dfs = []
 
-    if feature_type == 'rr_interval' :
-        test_df = pd.read_csv(dataset_folder + "test_all_feature_rr_interval.csv", header=None)
-        train_df = pd.read_csv(dataset_folder + "train_all_feature_rr_interval.csv", header=None)
-    if feature_type == 'qrs_complex' :
-        test_df = pd.read_csv(dataset_folder + "test_all_feature_qrs_complex.csv", header=None)
-        train_df = pd.read_csv(dataset_folder + "train_all_feature_qrs_complex.csv", header=None)
-    if feature_type == 'qt_interval' :
-        test_df = pd.read_csv(dataset_folder + "test_all_feature_qt_interval.csv", header=None)
-        train_df = pd.read_csv(dataset_folder + "train_all_feature_qt_interval.csv", header=None)
+    for i, feature in enumerate(feature_type.split(sep=",")):
+        print("Reading feature %s..." % feature)
+        test = pd.read_csv(dataset_folder + "test_all_feature_%s.csv" % feature, header=None)
+        train = pd.read_csv(dataset_folder + "train_all_feature_%s.csv" % feature, header=None)
+        if i < (selected_feature_len - 1) :
+            test = test.drop(30, 1)
+            train = train.drop(30, 1)
+        test_dfs.append(test)
+        train_dfs.append(train)
+        
+    test_df = pd.concat(test_dfs, axis=1, ignore_index=True)
+    train_df = pd.concat(train_dfs, axis=1, ignore_index=True)
 
     featurs_dfs = pd.concat([test_df, train_df])
-    X = featurs_dfs.values[:, :feature_pad*2].reshape(-1, feature_pad*2, 1)
-    y = featurs_dfs.values[:, feature_pad*2]
+    X = featurs_dfs.values[:, :feature_pad*2*selected_feature_len].reshape(-1, feature_pad*2*selected_feature_len, 1)
+    y = featurs_dfs.values[:, feature_pad*2*selected_feature_len]
     
     print("[INFO] encoding label to categorical...")
     enc = OneHotEncoder()
@@ -1220,7 +1224,10 @@ if __name__ == "__main__" :
             print ("Please choose correct answer.")
             answer[item] = input("Run %s [y/n]?" % item)
     
-    feature_type = ['rr_interval', 'qrs_complex', 'qt_interval']
+    # feature_type supported parameter 
+    feature_type = ['rr_interval', 'qrs_complex', 'qt_interval', 
+                    'qrs_complex,rr_interval', 'qrs_complex,qt_interval', 'rr_interval,qt_interval',
+                    'qrs_complex,rr_interval,qt_interval']
     selected_feature_type = {}
     if answer["Classification CNN"] == "y":
         for feature in feature_type :

@@ -1,248 +1,168 @@
-Experiment Name 	: rr_interval_2021_07_18__07_29_12 
-Accuracy 		: 0.9435
+Experiment Name 	: qrs_complex_2021_08_15__11_42_17 
+Accuracy 		: 0.8273
 
 
-Experiment Name 	: qrs_complex_2021_07_18__08_09_45 
-Accuracy 		: 0.9082
+Experiment Name 	: rr_interval_2021_08_15__11_44_03 
+Accuracy 		: 0.9458
 
 
-Experiment Name 	: rr_interval_2021_07_18__08_13_21 
-Accuracy 		: 0.9491
+Experiment Name 	: qt_interval_2021_08_15__11_45_29 
+Accuracy 		: 0.8697
 
 
-Experiment Name 	: qrs_complex_2021_07_18__08_14_57 
-Accuracy 		: 0.9171
+Experiment Name 	: qrs_complex,rr_interval_2021_08_15__11_48_28 
+Accuracy 		: 0.9749
 
 
-Experiment Name 	: rr_interval_2021_07_18__08_16_46 
-Accuracy 		: 0.9684
+Experiment Name 	: qrs_complex,qt_interval_2021_08_15__11_53_52 
+Accuracy 		: 0.8972
 
 
-Experiment Name 	: qrs_complex_2021_07_18__08_18_02 
-Accuracy 		: 0.9195
+Experiment Name 	: rr_interval,qt_interval_2021_08_15__11_56_06 
+Accuracy 		: 0.9780
 
 
-Experiment Name 	: rr_interval_2021_07_18__08_19_32 
-Accuracy 		: 0.9496
+Experiment Name 	: qrs_complex,rr_interval,qt_interval_2021_08_15__12_16_47 
+Accuracy 		: 0.9772
 
 
-Experiment Name 	: qrs_complex_2021_07_18__08_20_35 
-Accuracy 		: 0.9138
+Experiment Name 	: rr_interval_2021_08_15__12_31_02 
+Accuracy 		: 0.9635
 
 
-Experiment Name 	: rr_interval_2021_07_18__08_21_38 
-Accuracy 		: 0.9297
+Experiment Name 	: rr_interval_2021_08_15__12_31_02 
+Accuracy 		: 0.9641
 
 
-Experiment Name 	: qrs_complex_2021_07_18__08_22_37 
-Accuracy 		: 0.9215
+Experiment Name 	: rr_interval_2021_08_15__12_31_02 
+Accuracy 		: 0.9676
 
 
-Experiment Name 	: rr_interval_2021_07_18__08_23_48 
-Accuracy 		: 0.9670
-
-
-Experiment Name 	: qrs_complex_2021_07_18__08_24_57 
-Accuracy 		: 0.9223
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_30_59 
-Accuracy 		: 0.9594
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_38_08 
-Accuracy 		: 0.9659
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_41_58 
-Accuracy 		: 0.9712
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_44_34 
-Accuracy 		: 0.9665
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_47_17 
-Accuracy 		: 0.9688
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_47_17 
-Accuracy 		: 0.9600
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_47_17 
-Accuracy 		: 0.9594
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_47_17 
-Accuracy 		: 0.9611
-
-
-Experiment Name 	: rr_interval_2021_07_18__13_47_17 
-Accuracy 		: 0.9664
-
-
-Experiment Name 	: qrs_complex_2021_07_18__13_52_08 
-Accuracy 		: 0.8682
-
-
-Experiment Name 	: qrs_complex_2021_07_18__13_52_08 
-Accuracy 		: 0.8664
-
-
-Experiment Name 	: qrs_complex_2021_07_18__13_52_08 
-Accuracy 		: 0.8734
-
-
-Experiment Name 	: qrs_complex_2021_07_18__13_52_08 
-Accuracy 		: 0.8681
-
-
-Experiment Name 	: qrs_complex_2021_07_18__13_52_08 
-Accuracy 		: 0.8569
-
-
-Experiment Name 	: rr_interval_2021_07_18__14_01_31 
-Accuracy 		: 0.9717
-
-
-Experiment Name 	: rr_interval_2021_07_18__14_01_31 
-Accuracy 		: 0.9670
-
-
-Experiment Name 	: rr_interval_2021_07_18__14_01_31 
+Experiment Name 	: rr_interval_2021_08_15__12_31_02 
 Accuracy 		: 0.9623
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_01_31 
-Accuracy 		: 0.9541
+Experiment Name 	: rr_interval_2021_08_15__12_31_02 
+Accuracy 		: 0.9706
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_01_31 
-Accuracy 		: 0.9564
-
-
-Experiment Name 	: qrs_complex_2021_07_18__14_05_19 
-Accuracy 		: 0.8682
-
-
-Experiment Name 	: qrs_complex_2021_07_18__14_05_19 
+Experiment Name 	: qrs_complex_2021_08_15__12_34_53 
 Accuracy 		: 0.8723
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_05_19 
-Accuracy 		: 0.8757
+Experiment Name 	: qrs_complex_2021_08_15__12_34_53 
+Accuracy 		: 0.8676
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_05_19 
-Accuracy 		: 0.8475
+Experiment Name 	: qrs_complex_2021_08_15__12_34_53 
+Accuracy 		: 0.8828
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_05_19 
-Accuracy 		: 0.8534
+Experiment Name 	: qrs_complex_2021_08_15__12_34_53 
+Accuracy 		: 0.8610
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_11_51 
-Accuracy 		: 0.9694
+Experiment Name 	: qrs_complex_2021_08_15__12_34_53 
+Accuracy 		: 0.8610
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_16_26 
-Accuracy 		: 0.9688
+Experiment Name 	: qt_interval_2021_08_15__12_38_41 
+Accuracy 		: 0.8958
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_28_02 
+Experiment Name 	: qt_interval_2021_08_15__12_38_41 
+Accuracy 		: 0.9099
+
+
+Experiment Name 	: qt_interval_2021_08_15__12_38_41 
+Accuracy 		: 0.9052
+
+
+Experiment Name 	: qt_interval_2021_08_15__12_38_41 
+Accuracy 		: 0.8916
+
+
+Experiment Name 	: qt_interval_2021_08_15__12_38_41 
+Accuracy 		: 0.8881
+
+
+Experiment Name 	: qrs_complex,rr_interval_2021_08_15__12_44_45 
+Accuracy 		: 0.9770
+
+
+Experiment Name 	: qrs_complex,rr_interval_2021_08_15__12_44_45 
+Accuracy 		: 0.9635
+
+
+Experiment Name 	: qrs_complex,rr_interval_2021_08_15__12_44_45 
 Accuracy 		: 0.9735
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_28_02 
-Accuracy 		: 0.9647
+Experiment Name 	: qrs_complex,rr_interval_2021_08_15__12_44_45 
+Accuracy 		: 0.9706
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_28_02 
-Accuracy 		: 0.9664
+Experiment Name 	: qrs_complex,rr_interval_2021_08_15__12_44_45 
+Accuracy 		: 0.9770
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_28_02 
-Accuracy 		: 0.9558
+Experiment Name 	: qrs_complex,qt_interval_2021_08_15__12_49_24 
+Accuracy 		: 0.9147
 
 
-Experiment Name 	: rr_interval_2021_07_18__14_28_02 
-Accuracy 		: 0.9717
+Experiment Name 	: qrs_complex,qt_interval_2021_08_15__12_49_24 
+Accuracy 		: 0.9223
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_32_13 
-Accuracy 		: 0.8664
+Experiment Name 	: qrs_complex,qt_interval_2021_08_15__12_49_24 
+Accuracy 		: 0.9305
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_32_13 
-Accuracy 		: 0.8670
+Experiment Name 	: qrs_complex,qt_interval_2021_08_15__12_49_24 
+Accuracy 		: 0.9022
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_32_13 
-Accuracy 		: 0.8740
+Experiment Name 	: qrs_complex,qt_interval_2021_08_15__12_49_24 
+Accuracy 		: 0.9158
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_32_13 
-Accuracy 		: 0.8587
+Experiment Name 	: rr_interval,qt_interval_2021_08_15__12_54_03 
+Accuracy 		: 0.9835
 
 
-Experiment Name 	: qrs_complex_2021_07_18__14_32_13 
-Accuracy 		: 0.8534
+Experiment Name 	: rr_interval,qt_interval_2021_08_15__12_54_03 
+Accuracy 		: 0.9765
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_19_04 
-Accuracy 		: 0.8760
+Experiment Name 	: rr_interval,qt_interval_2021_08_15__12_54_03 
+Accuracy 		: 0.9729
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_30_27 
-Accuracy 		: 0.8837
+Experiment Name 	: rr_interval,qt_interval_2021_08_15__12_54_03 
+Accuracy 		: 0.9747
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_34_05 
-Accuracy 		: 0.8805
+Experiment Name 	: rr_interval,qt_interval_2021_08_15__12_54_03 
+Accuracy 		: 0.9759
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_42_04 
-Accuracy 		: 0.8752
+Experiment Name 	: qrs_complex,rr_interval,qt_interval_2021_08_15__12_58_37 
+Accuracy 		: 0.9847
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_49_36 
-Accuracy 		: 0.8422
+Experiment Name 	: qrs_complex,rr_interval,qt_interval_2021_08_15__12_58_37 
+Accuracy 		: 0.9765
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_51_38 
-Accuracy 		: 0.8642
+Experiment Name 	: qrs_complex,rr_interval,qt_interval_2021_08_15__12_58_37 
+Accuracy 		: 0.9853
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_54_18 
-Accuracy 		: 0.8870
+Experiment Name 	: qrs_complex,rr_interval,qt_interval_2021_08_15__12_58_37 
+Accuracy 		: 0.9729
 
 
-Experiment Name 	: qt_interval_2021_07_20__12_55_55 
-Accuracy 		: 0.8721
-
-
-Experiment Name 	: qt_interval_2021_07_20__12_55_55 
-Accuracy 		: 0.8846
-
-
-Experiment Name 	: qt_interval_2021_07_20__14_22_39 
-Accuracy 		: 0.9035
-
-
-Experiment Name 	: qt_interval_2021_07_20__14_22_39 
-Accuracy 		: 0.9070
-
-
-Experiment Name 	: qt_interval_2021_07_20__14_22_39 
-Accuracy 		: 0.8993
-
-
-Experiment Name 	: qt_interval_2021_07_20__14_22_39 
-Accuracy 		: 0.8804
-
-
-Experiment Name 	: qt_interval_2021_07_20__14_22_39 
-Accuracy 		: 0.8881
+Experiment Name 	: qrs_complex,rr_interval,qt_interval_2021_08_15__12_58_37 
+Accuracy 		: 0.9817
 
 
