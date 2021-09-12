@@ -1,0 +1,12 @@
+,filename,idx,label,confidence
+0,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,0,AF,0.996177077293396
+1,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,1,AF,0.9938719272613525
+2,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,2,AF,0.9917410612106323
+3,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,3,AF,0.99850994348526
+4,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,4,AF,0.9999176263809204
+5,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,5,AF,0.7190183997154236
+6,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,6,AF,0.9998352527618408
+7,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,7,AF,0.9978910088539124
+8,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,8,AF,0.9991320967674255
+9,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,9,AF,0.9970790147781372
+10,dataset_test_AF_04015_ECG1_0_sequence_6s_2_ch.csv,10,AF,0.9995241165161133
