@@ -166,3 +166,7 @@ Experiment Name 	: qrs_complex,rr_interval,qt_interval_2021_08_15__12_58_37
 Accuracy 		: 0.9817
 
 
+Experiment Name 	: rr_interval_2021_09_23__15_22_16 
+Accuracy 		: 0.9615
+
+
